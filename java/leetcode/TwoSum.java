@@ -1,4 +1,5 @@
-/* Leet Code: Two Sum
+/* Leet Code
+ * Algorithms, problem 1: Two Sum
  * Programming Language: java
  *
  * Program description:
